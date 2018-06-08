@@ -1,0 +1,302 @@
+[
+  {
+    "generation": 1,
+    "region": "Kanto",
+    "pokemons": [
+      {
+        "number": "1",
+        "name": "Bulbasaur",
+        "query": "1&cp13,cp43,cp73,cp102,cp132,cp162,cp191,cp221,cp250,cp280,cp308,cp336,cp364,cp392,cp420,cp448,cp476,cp504,cp532,cp560,cp588,cp617,cp645,cp673,cp701,cp729,cp757,cp785,cp813,cp841,cp855,cp869,cp883,cp897,cp911"
+      },
+      {
+        "number": "2",
+        "name": "Ivysaur",
+        "query": "2&cp21,cp68,cp115,cp162,cp209,cp256,cp303,cp349,cp396,cp443,cp487,cp532,cp576,cp620,cp665,cp709,cp753,cp798,cp842,cp886,cp931,cp975,cp1019,cp1064,cp1108,cp1153,cp1197,cp1241,cp1286,cp1330,cp1352,cp1374,cp1396,cp1419,cp1441"
+      },
+      {
+        "number": "3",
+        "name": "Venusaur",
+        "query": "3&cp36,cp113,cp191,cp268,cp346,cp423,cp501,cp579,cp656,cp734,cp807,cp880,cp954,cp1027,cp1100,cp1174,cp1247,cp1320,cp1394,cp1467,cp1541,cp1614,cp1687,cp1761,cp1834,cp1908,cp1981,cp2054,cp2128,cp2201,cp2238,cp2275,cp2311,cp2348,cp2385"
+      },
+      {
+        "number": "4",
+        "name": "Charmander",
+        "query": "4&cp11,cp36,cp61,cp87,cp112,cp137,cp162,cp187,cp212,cp237,cp261,cp285,cp308,cp332,cp356,cp380,cp403,cp427,cp451,cp475,cp498,cp522,cp546,cp570,cp593,cp617,cp641,cp665,cp688,cp712,cp724,cp736,cp748,cp760,cp771"
+      },
+      {
+        "number": "5",
+        "name": "Charmeleon",
+        "query": "5&cp20,cp65,cp110,cp155,cp200,cp244,cp289,cp334,cp379,cp424,cp466,cp508,cp551,cp593,cp636,cp678,cp720,cp763,cp805,cp847,cp890,cp932,cp975,cp1017,cp1060,cp1102,cp1144,cp1187,cp1229,cp1272,cp1293,cp1314,cp1335,cp1356,cp1378"
+      },
+      {
+        "number": "6",
+        "name": "Charizard",
+        "query": "6&cp38,cp119,cp200,cp281,cp362,cp443,cp524,cp605,cp686,cp767,cp844,cp921,cp997,cp1074,cp1151,cp1228,cp1304,cp1381,cp1458,cp1535,cp1611,cp1688,cp1765,cp1842,cp1918,cp1995,cp2072,cp2149,cp2226,cp2302,cp2341,cp2379,cp2417,cp2456,cp2494"
+      },
+      {
+        "number": "7",
+        "name": "Squirtle",
+        "query": "7&cp11,cp35,cp60,cp84,cp109,cp133,cp157,cp182,cp206,cp231,cp254,cp277,cp300,cp323,cp346,cp369,cp392,cp415,cp439,cp462,cp485,cp508,cp531,cp554,cp577,cp600,cp623,cp646,cp670,cp693,cp704,cp716,cp727,cp739,cp750"
+      },
+      {
+        "number": "8",
+        "name": "Wartortle",
+        "query": "8&cp18,cp58,cp98,cp138,cp178,cp218,cp258,cp298,cp338,cp378,cp416,cp454,cp491,cp529,cp567,cp605,cp643,cp681,cp718,cp756,cp794,cp832,cp870,cp908,cp945,cp983,cp1021,cp1059,cp1097,cp1135,cp1154,cp1172,cp1191,cp1210,cp1229"
+      },
+      {
+        "number": "9",
+        "name": "Blastoise",
+        "query": "9&cp32,cp101,cp170,cp239,cp309,cp378,cp447,cp516,cp585,cp655,cp720,cp785,cp851,cp916,cp982,cp1047,cp1113,cp1178,cp1244,cp1309,cp1375,cp1440,cp1506,cp1571,cp1637,cp1702,cp1768,cp1833,cp1899,cp1964,cp1997,cp2030,cp2062,cp2095,cp2128"
+      },
+      {
+        "number": "10",
+        "name": "Caterpie",
+        "query": "10&cp10,cp17,cp29,cp41,cp53,cp64,cp76,cp88,cp100,cp112,cp123,cp134,cp146,cp157,cp168,cp179,cp190,cp202,cp213,cp224,cp235,cp247,cp258,cp269,cp280,cp292,cp303,cp314,cp325,cp336,cp342,cp348,cp353,cp359,cp365"
+      },
+      {
+        "number": "11",
+        "name": "Metapod",
+        "query": "11&cp10,cp18,cp31,cp43,cp56,cp69,cp81,cp94,cp107,cp119,cp131,cp143,cp155,cp167,cp179,cp191,cp203,cp215,cp227,cp239,cp251,cp263,cp275,cp287,cp299,cp311,cp323,cp335,cp347,cp359,cp365,cp371,cp377,cp383,cp389"
+      },
+      {
+        "number": "12",
+        "name": "Butterfree",
+        "query": "12&cp24,cp75,cp126,cp178,cp229,cp280,cp332,cp383,cp434,cp486,cp534,cp583,cp632,cp680,cp729,cp777,cp826,cp875,cp923,cp972,cp1020,cp1069,cp1118,cp1166,cp1215,cp1264,cp1312,cp1361,cp1410,cp1458,cp1482,cp1507,cp1531,cp1555,cp1580"
+      },
+      {
+        "number": "13",
+        "name": "Weedle",
+        "query": "13&cp10,cp17,cp29,cp41,cp53,cp65,cp77,cp89,cp101,cp113,cp124,cp136,cp147,cp158,cp170,cp181,cp192,cp204,cp215,cp227,cp238,cp249,cp261,cp272,cp283,cp295,cp306,cp317,cp329,cp340,cp346,cp351,cp357,cp363,cp368"
+      },
+      {
+        "number": "14",
+        "name": "Kakuna",
+        "query": "14&cp10,cp17,cp29,cp41,cp52,cp64,cp76,cp88,cp100,cp112,cp123,cp134,cp145,cp156,cp168,cp179,cp190,cp201,cp212,cp224,cp235,cp246,cp257,cp269,cp280,cp291,cp302,cp313,cp325,cp336,cp341,cp347,cp353,cp358,cp364"
+      },
+      {
+        "number": "15",
+        "name": "Beedrill",
+        "query": "15&cp25,cp78,cp132,cp186,cp239,cp293,cp347,cp400,cp454,cp508,cp558,cp609,cp660,cp711,cp761,cp812,cp863,cp914,cp964,cp1015,cp1066,cp1117,cp1168,cp1218,cp1269,cp1320,cp1371,cp1422,cp1472,cp1523,cp1549,cp1574,cp1599,cp1625,cp1650"
+      },
+      {
+        "number": "16",
+        "name": "Pidgey",
+        "query": "16&cp10,cp25,cp43,cp60,cp78,cp95,cp113,cp130,cp148,cp165,cp182,cp199,cp215,cp232,cp248,cp265,cp282,cp298,cp315,cp331,cp348,cp365,cp381,cp398,cp414,cp431,cp448,cp464,cp481,cp497,cp506,cp514,cp522,cp530,cp539"
+      },
+      {
+        "number": "17",
+        "name": "Pidgeotto",
+        "query": "17&cp15,cp48,cp80,cp113,cp146,cp179,cp211,cp244,cp277,cp310,cp341,cp372,cp403,cp434,cp465,cp496,cp527,cp558,cp589,cp620,cp651,cp682,cp713,cp744,cp775,cp806,cp837,cp868,cp899,cp930,cp946,cp961,cp977,cp992,cp1008"
+      },
+      {
+        "number": "18",
+        "name": "Pidgeot",
+        "query": "18&cp28,cp88,cp148,cp208,cp269,cp329,cp389,cp449,cp509,cp570,cp627,cp684,cp740,cp797,cp854,cp911,cp968,cp1025,cp1082,cp1139,cp1196,cp1253,cp1310,cp1367,cp1424,cp1481,cp1538,cp1595,cp1652,cp1709,cp1738,cp1766,cp1795,cp1823,cp1852"
+      },
+      {
+        "number": "19",
+        "name": "Rattata",
+        "query": "19&cp10,cp26,cp43,cp61,cp79,cp97,cp114,cp132,cp150,cp168,cp184,cp201,cp218,cp235,cp252,cp269,cp285,cp302,cp319,cp336,cp353,cp369,cp386,cp403,cp420,cp437,cp453,cp470,cp487,cp504,cp512,cp521,cp529,cp538,cp546"
+      },
+      {
+        "number": "20",
+        "name": "Raticate",
+        "query": "20&cp21,cp68,cp115,cp162,cp209,cp255,cp302,cp349,cp396,cp442,cp487,cp531,cp575,cp619,cp664,cp708,cp752,cp796,cp841,cp885,cp929,cp974,cp1018,cp1062,cp1106,cp1151,cp1195,cp1239,cp1284,cp1328,cp1350,cp1372,cp1394,cp1416,cp1439"
+      },
+      {
+        "number": "21",
+        "name": "Spearow",
+        "query": "21&cp10,cp29,cp50,cp70,cp90,cp111,cp131,cp151,cp172,cp192,cp211,cp231,cp250,cp269,cp288,cp308,cp327,cp346,cp365,cp385,cp404,cp423,cp442,cp462,cp481,cp500,cp519,cp539,cp558,cp577,cp587,cp596,cp606,cp616,cp625"
+      },
+      {
+        "number": "22",
+        "name": "Fearow",
+        "query": "22&cp25,cp80,cp135,cp189,cp244,cp299,cp354,cp409,cp463,cp518,cp570,cp622,cp674,cp725,cp777,cp829,cp881,cp933,cp985,cp1036,cp1088,cp1140,cp1192,cp1244,cp1296,cp1348,cp1399,cp1451,cp1503,cp1555,cp1581,cp1607,cp1633,cp1659,cp1685"
+      },
+      {
+        "number": "23",
+        "name": "Ekans",
+        "query": "23&cp11,cp34,cp58,cp81,cp105,cp128,cp152,cp175,cp199,cp222,cp244,cp266,cp289,cp311,cp333,cp355,cp378,cp400,cp422,cp444,cp467,cp489,cp511,cp533,cp556,cp578,cp600,cp622,cp645,cp667,cp678,cp689,cp700,cp711,cp722"
+      },
+      {
+        "number": "24",
+        "name": "Arbok",
+        "query": "24&cp24,cp77,cp129,cp181,cp234,cp286,cp339,cp391,cp444,cp496,cp546,cp595,cp645,cp694,cp744,cp794,cp843,cp893,cp943,cp992,cp1042,cp1091,cp1141,cp1191,cp1240,cp1290,cp1340,cp1389,cp1439,cp1489,cp1513,cp1538,cp1563,cp1588,cp1613"
+      },
+      {
+        "number": "25",
+        "name": "Pikachu",
+        "query": "25&cp11,cp34,cp58,cp82,cp106,cp130,cp153,cp177,cp201,cp225,cp247,cp270,cp292,cp315,cp337,cp360,cp382,cp405,cp427,cp450,cp472,cp495,cp517,cp540,cp562,cp585,cp607,cp630,cp652,cp675,cp686,cp697,cp708,cp720,cp731"
+      },
+      {
+        "number": "26",
+        "name": "Raichu",
+        "query": "26&cp28,cp89,cp150,cp212,cp273,cp334,cp395,cp456,cp517,cp578,cp636,cp694,cp752,cp810,cp867,cp925,cp983,cp1041,cp1099,cp1157,cp1215,cp1272,cp1330,cp1388,cp1446,cp1504,cp1562,cp1620,cp1678,cp1735,cp1764,cp1793,cp1822,cp1851,cp1880"
+      },
+      {
+        "number": "27",
+        "name": "Sandshrew",
+        "query": "27&cp16,cp52,cp89,cp125,cp161,cp197,cp233,cp269,cp305,cp341,cp375,cp409,cp443,cp477,cp512,cp546,cp580,cp614,cp648,cp682,cp716,cp750,cp785,cp819,cp853,cp887,cp921,cp955,cp989,cp1023,cp1041,cp1058,cp1075,cp1092,cp1109"
+      },
+      {
+        "number": "28",
+        "name": "Sandslash",
+        "query": "28&cp32,cp103,cp173,cp243,cp314,cp384,cp454,cp524,cp595,cp665,cp731,cp798,cp864,cp931,cp997,cp1064,cp1130,cp1197,cp1263,cp1330,cp1396,cp1463,cp1529,cp1596,cp1663,cp1729,cp1796,cp1862,cp1929,cp1995,cp2028,cp2062,cp2095,cp2128,cp2161"
+      },
+      {
+        "number": "29",
+        "name": "Nidoran ♀",
+        "query": "29&cp10,cp32,cp54,cp77,cp99,cp121,cp143,cp165,cp188,cp210,cp231,cp252,cp273,cp294,cp315,cp336,cp357,cp378,cp399,cp420,cp441,cp462,cp483,cp504,cp525,cp547,cp568,cp589,cp610,cp631,cp641,cp652,cp662,cp673,cp683"
+      },
+      {
+        "number": "30",
+        "name": "Nidorina",
+        "query": "30&cp17,cp54,cp90,cp127,cp164,cp201,cp237,cp274,cp311,cp348,cp383,cp417,cp452,cp487,cp522,cp557,cp592,cp626,cp661,cp696,cp731,cp766,cp800,cp835,cp870,cp905,cp940,cp975,cp1009,cp1044,cp1062,cp1079,cp1096,cp1114,cp1131"
+      },
+      {
+        "number": "31",
+        "name": "Nidoqueen",
+        "query": "31&cp33,cp103,cp174,cp244,cp315,cp385,cp456,cp527,cp597,cp668,cp735,cp801,cp868,cp935,cp1002,cp1068,cp1135,cp1202,cp1269,cp1336,cp1402,cp1469,cp1536,cp1603,cp1670,cp1736,cp1803,cp1870,cp1937,cp2004,cp2037,cp2071,cp2104,cp2137,cp2171"
+      },
+      {
+        "number": "32",
+        "name": "Nidoran ♂",
+        "query": "32&cp10,cp32,cp55,cp77,cp99,cp122,cp144,cp166,cp189,cp211,cp232,cp253,cp274,cp295,cp316,cp338,cp359,cp380,cp401,cp422,cp443,cp464,cp486,cp507,cp528,cp549,cp570,cp591,cp612,cp633,cp644,cp655,cp665,cp676,cp686"
+      },
+      {
+        "number": "33",
+        "name": "Nidorino",
+        "query": "33&cp17,cp55,cp93,cp131,cp168,cp206,cp244,cp282,cp320,cp357,cp393,cp429,cp465,cp500,cp536,cp572,cp608,cp644,cp679,cp715,cp751,cp787,cp822,cp858,cp894,cp930,cp966,cp1001,cp1037,cp1073,cp1091,cp1109,cp1127,cp1144,cp1162"
+      },
+      {
+        "number": "34",
+        "name": "Nidoking",
+        "query": "34&cp33,cp105,cp177,cp249,cp321,cp393,cp465,cp538,cp610,cp682,cp750,cp818,cp886,cp954,cp1022,cp1091,cp1159,cp1227,cp1295,cp1363,cp1431,cp1500,cp1568,cp1636,cp1704,cp1772,cp1841,cp1909,cp1977,cp2045,cp2079,cp2113,cp2148,cp2182,cp2216"
+      },
+      {
+        "number": "35",
+        "name": "Clefairy",
+        "query": "35&cp15,cp48,cp80,cp113,cp146,cp179,cp212,cp244,cp277,cp310,cp341,cp372,cp403,cp434,cp465,cp496,cp527,cp558,cp589,cp620,cp651,cp682,cp713,cp744,cp775,cp806,cp837,cp868,cp899,cp930,cp946,cp961,cp977,cp992,cp1008"
+      },
+      {
+        "number": "36",
+        "name": "Clefable",
+        "query": "36&cp33,cp104,cp175,cp246,cp317,cp388,cp459,cp530,cp601,cp672,cp739,cp807,cp874,cp941,cp1008,cp1076,cp1143,cp1210,cp1277,cp1344,cp1412,cp1479,cp1546,cp1614,cp1681,cp1748,cp1815,cp1883,cp1950,cp2017,cp2051,cp2084,cp2118,cp2152,cp2185"
+      },
+      {
+        "number": "37",
+        "name": "Vulpix",
+        "query": "36&cp33,cp104,cp175,cp246,cp317,cp388,cp459,cp530,cp601,cp672,cp739,cp807,cp874,cp941,cp1008,cp1076,cp1143,cp1210,cp1277,cp1344,cp1412,cp1479,cp1546,cp1614,cp1681,cp1748,cp1815,cp1883,cp1950,cp2017,cp2051,cp2084,cp2118,cp2152,cp2185"
+      },
+      {
+        "number": "38",
+        "name": "Ninetales",
+        "query": "38&cp30,cp95,cp160,cp225,cp291,cp356,cp421,cp486,cp551,cp616,cp678,cp740,cp801,cp863,cp924,cp986,cp1048,cp1109,cp1171,cp1233,cp1294,cp1356,cp1418,cp1479,cp1541,cp1603,cp1664,cp1726,cp1788,cp1849,cp1880,cp1911,cp1942,cp1973,cp2003"
+      },
+      {
+        "number": "39",
+        "name": "Jigglypuff",
+        "query": "39&cp10,cp31,cp53,cp74,cp96,cp117,cp139,cp160,cp182,cp203,cp224,cp244,cp265,cp285,cp305,cp326,cp346,cp366,cp387,cp407,cp428,cp448,cp468,cp489,cp509,cp529,cp550,cp570,cp591,cp611,cp621,cp631,cp642,cp652,cp662"
+      },
+      {
+        "number": "40",
+        "name": "Wigglytuff",
+        "query": "40&cp26,cp84,cp142,cp199,cp257,cp314,cp372,cp429,cp487,cp544,cp599,cp653,cp708,cp762,cp817,cp871,cp925,cp980,cp1034,cp1089,cp1143,cp1198,cp1252,cp1307,cp1361,cp1416,cp1470,cp1525,cp1579,cp1634,cp1661,cp1688,cp1715,cp1743,cp1770"
+      },
+      {
+        "number": "41",
+        "name": "Zubat",
+        "query": "41&cp10,cp25,cp42,cp59,cp76,cp93,cp111,cp128,cp145,cp162,cp178,cp195,cp211,cp227,cp243,cp260,cp276,cp292,cp308,cp325,cp341,cp357,cp373,cp390,cp406,cp422,cp439,cp455,cp471,cp487,cp495,cp504,cp512,cp520,cp528"
+      },
+      {
+        "number": "42",
+        "name": "Golbat",
+        "query": "42&cp25,cp81,cp136,cp191,cp246,cp302,cp357,cp412,cp467,cp523,cp575,cp627,cp679,cp732,cp784,cp836,cp888,cp941,cp993,cp1045,cp1098,cp1150,cp1202,cp1254,cp1307,cp1359,cp1411,cp1464,cp1516,cp1568,cp1594,cp1621,cp1647,cp1673,cp1699"
+      },
+      {
+        "number": "43",
+        "name": "Oddish",
+        "query": "43&cp15,cp47,cp79,cp111,cp144,cp176,cp208,cp241,cp273,cp305,cp336,cp366,cp397,cp427,cp458,cp488,cp519,cp550,cp580,cp611,cp641,cp672,cp702,cp733,cp763,cp794,cp825,cp855,cp886,cp916,cp932,cp947,cp962,cp977,cp993"
+      },
+      {
+        "number": "44",
+        "name": "Gloom",
+        "query": "44&cp21,cp67,cp112,cp158,cp204,cp249,cp295,cp341,cp386,cp432,cp475,cp518,cp562,cp605,cp648,cp691,cp734,cp778,cp821,cp864,cp907,cp950,cp994,cp1037,cp1080,cp1123,cp1167,cp1210,cp1253,cp1296,cp1318,cp1340,cp1361,cp1383,cp1404"
+      },
+      {
+        "number": "45",
+        "name": "Vileplume",
+        "query": "45&cp33,cp104,cp176,cp247,cp319,cp390,cp462,cp533,cp605,cp676,cp744,cp812,cp879,cp947,cp1014,cp1082,cp1150,cp1217,cp1285,cp1353,cp1420,cp1488,cp1556,cp1623,cp1691,cp1759,cp1826,cp1894,cp1962,cp2029,cp2063,cp2097,cp2131,cp2165,cp2198"
+      },
+      {
+        "number": "46",
+        "name": "Paras",
+        "query": "46&cp11,cp37,cp62,cp87,cp112,cp138,cp163,cp188,cp213,cp238,cp262,cp286,cp310,cp334,cp358,cp382,cp406,cp430,cp453,cp477,cp501,cp525,cp549,cp573,cp597,cp621,cp645,cp668,cp692,cp716,cp728,cp740,cp752,cp764,cp776"
+      },
+      {
+        "number": "47",
+        "name": "Parasect",
+        "query": "47&cp23,cp73,cp123,cp173,cp223,cp273,cp323,cp373,cp423,cp473,cp521,cp568,cp615,cp663,cp710,cp757,cp805,cp852,cp899,cp947,cp994,cp1041,cp1089,cp1136,cp1183,cp1231,cp1278,cp1326,cp1373,cp1420,cp1444,cp1468,cp1491,cp1515,cp1539"
+      },
+      {
+        "number": "48",
+        "name": "Venonat",
+        "query": "48&cp12,cp40,cp67,cp94,cp121,cp149,cp176,cp203,cp230,cp257,cp283,cp309,cp335,cp361,cp386,cp412,cp438,cp464,cp490,cp515,cp541,cp567,cp593,cp619,cp644,cp670,cp696,cp722,cp747,cp773,cp786,cp799,cp812,cp825,cp838"
+      },
+      {
+        "number": "49",
+        "name": "Venomoth",
+        "query": "49&cp27,cp85,cp144,cp202,cp261,cp319,cp378,cp436,cp495,cp553,cp609,cp664,cp719,cp775,cp830,cp885,cp941,cp996,cp1051,cp1107,cp1162,cp1217,cp1273,cp1328,cp1384,cp1439,cp1494,cp1550,cp1605,cp1661,cp1688,cp1716,cp1744,cp1771,cp1799"
+      },
+      {
+        "number": "50",
+        "name": "Diglett",
+        "query": "50&cp10,cp20,cp34,cp48,cp62,cp76,cp90,cp104,cp118,cp132,cp146,cp159,cp172,cp186,cp199,cp212,cp225,cp239,cp252,cp265,cp278,cp292,cp305,cp318,cp332,cp345,cp358,cp372,cp385,cp398,cp405,cp411,cp418,cp425,cp431"
+      }
+    ]
+  },
+
+  {
+    "generation": 2,
+    "region": "Johto",
+    "pokemons": [
+      {
+        "number": "152",
+        "name": "Chikorita",
+        "query": "152&cp11,cp35,cp59,cp83,cp108,cp132,cp156,cp180,cp204,cp229,cp251,cp274,cp297,cp320,cp343,cp366,cp389,cp412,cp435,cp458,cp480,cp503,cp526,cp549,cp572,cp595,cp618,cp641,cp664,cp687,cp698,cp709,cp721,cp732,cp744"
+      },
+      {
+        "number": "153",
+        "name": "Bayleef",
+        "query": "153&cp18,cp57,cp96,cp135,cp174,cp213,cp253,cp292,cp331,cp370,cp407,cp444,cp481,cp518,cp555,cp592,cp629,cp666,cp703,cp740,cp777,cp814,cp851,cp888,cp925,cp962,cp1000,cp1037,cp1074,cp1111,cp1129,cp1148,cp1166,cp1185,cp1203"
+      },
+      {
+        "number": "154",
+        "name": "Meganium",
+        "query": "154&cp31,cp98,cp165,cp233,cp300,cp367,cp434,cp502,cp569,cp636,cp700,cp763,cp827,cp891,cp954,cp1018,cp1081,cp1145,cp1209,cp1272,cp1336,cp1400,cp1463,cp1527,cp1590,cp1654,cp1718,cp1781,cp1845,cp1909,cp1941,cp1972,cp2004,cp2036,cp2068"
+      }
+    ]
+  },
+
+  {
+    "generation": 3,
+    "region": "Hoenn",
+    "pokemons": [
+      {
+        "number": "252",
+        "name": "Treecko",
+        "query": "252&cp13,cp40,cp68,cp96,cp124,cp152,cp180,cp208,cp235,cp263,cp290,cp316,cp342,cp369,cp395,cp421,cp448,cp474,cp501,cp527,cp553,cp580,cp606,cp632,cp659,cp685,cp712,cp738,cp764,cp791,cp804,cp817,cp830,cp843,cp857"
+      },
+      {
+        "number": "253",
+        "name": "Grovyle",
+        "query": "253&cp21,cp66,cp112,cp157,cp203,cp248,cp294,cp340,cp385,cp431,cp474,cp517,cp560,cp603,cp646,cp689,cp732,cp775,cp818,cp861,cp904,cp948,cp991,cp1034,cp1077,cp1120,cp1163,cp1206,cp1249,cp1292,cp1314,cp1335,cp1357,cp1378,cp1400"
+      },
+      {
+        "number": "254",
+        "name": "Sceptile",
+        "query": "254&cp36,cp114,cp192,cp270,cp348,cp426,cp504,cp582,cp660,cp738,cp812,cp886,cp960,cp1033,cp1107,cp1181,cp1255,cp1329,cp1402,cp1476,cp1550,cp1624,cp1698,cp1772,cp1845,cp1919,cp1993,cp2067,cp2141,cp2215,cp2252,cp2289,cp2325,cp2362,cp2399"
+      }
+    ]
+  }
+]

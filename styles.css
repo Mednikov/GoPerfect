@@ -1,0 +1,131 @@
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active
+{
+	outline:0px !important;
+	-webkit-appearance:none;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+html,
+body{
+	background-color: #f2f3f7;
+	color: #4a5697
+}
+
+.navbar{
+	background-color: #4a5697;
+}
+.navbar-text{
+	color: #abb0c4;
+}
+.navbar .row{
+	width: 100%;
+}
+
+.search-block{
+	background-color: white;
+	height: 68px;
+	line-height: 68px;
+}
+#search{
+	height: 68px;
+	padding: 0;
+	border: none;
+}
+#search::-webkit-input-placeholder,
+#search::-moz-placeholder,
+#search:-ms-input-placeholder,
+#search:-moz-placeholder,
+#search::placeholder {
+  color: #abb0c4;
+}
+
+.card{
+	border: none;
+	position: relative;
+}
+.rounded {
+  border-radius: .5rem!important;
+}
+.shadow-lg {
+    box-shadow: 0 .625rem 1.25rem rgba(74,86,151,.1)!important;
+}
+.card-img-top{
+	position: relative;
+	display: block;
+	/*width: 120px;*/
+	height: 120px;
+	margin: 0 auto;
+	background-repeat: no-repeat;
+	background-position: 50% 100%;
+	overflow: hidden;
+}
+.card-text{
+	display: block;
+	position: absolute;
+	top: 6px;
+	left: 10px;
+	font-size: 0.75rem;
+	font-weight: bold;
+	color: #abb0c4;
+	text-shadow:
+	   -1px -1px 0 white,  
+	    1px -1px 0 white,
+	    -1px 1px 0 white,
+	     1px 1px 0 white;
+}
+.card-text-region{
+	left: auto;
+	right: 10px;
+}
+.card-title{
+	margin-bottom: 0;
+	font-weight: bold;
+}
+.card-hover-overlay,
+.card-done-overlay{
+	opacity: 0;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: white;
+	transition: all .15s;
+}
+.card-done-overlay{
+	opacity: 1;
+	background-color: #4a5697;
+	color: white;
+}
+
+.card:hover .card-hover-overlay{
+	opacity: 1;
+	cursor: pointer;
+}
+
+
+/* VUE ANIMATIONS */
+.copied-enter-active,
+.copied-leave-active{
+	transition: all .25s;
+}
+.copied-enter,
+.copied-leave-to{
+	transform: scale(1.25) rotate(-10deg);
+	opacity: 0;
+}
+.copied-enter{
+	transform: scale(1.25) rotate(10deg);
+}
