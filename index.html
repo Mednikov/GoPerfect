@@ -62,11 +62,20 @@
 	</div>
 
 	<div class="container py-5">
-		<div class="row">
+		<transition-group 
+			name="fade" 
+			tag="div" 
+			class="row fade-container"
+		>
 
 			<!-- <div class="col-12 mb-2 text-center"><h6>{{ gen.region }}</h6></div> -->
 
-			<div class="col-xl-2 col-lg-3 col-sm-6 col-12" v-for="(pokemon, i) in filteredData">
+			<div 
+				class="col-xl-2 col-lg-3 col-sm-6 col-12 fade-item" 
+				v-for="(pokemon, i) in filteredData" 
+				:key="pokemon.number" 
+				:data-index="i" 
+			>
 				<div class="card rounded shadow-lg mb-4">
 					<!-- <img 
 						class="card-img-top" 
@@ -99,7 +108,7 @@
 					:id="pokemon.name.toLowerCase()" 
 					:value="pokemon.query">
 			</div>
-		</div>
+		</transition-group>
 	</div>
 
 

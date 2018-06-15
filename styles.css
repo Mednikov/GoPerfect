@@ -129,3 +129,29 @@ body{
 .copied-enter{
 	transform: scale(1.25) rotate(10deg);
 }
+
+/*.fade-move,
+.fade-enter-active,
+.fade-leave-active{
+	transition: all .5s ease;
+}
+.fade-enter,
+.fade-leave-to{
+	opacity: 0;
+	transform: scale(0);
+}*/
+
+.fade-item {
+	transition: all .15s;
+	display: inline-block;
+}
+.fade-enter, 
+.fade-leave-to{
+	opacity: 0;
+	transform: translateY(30px);
+}
+
+.fade-leave-active {
+	position: absolute;
+	right: 0;
+}
