@@ -61,7 +61,10 @@
 		</div>
 	</div>
 
-	<div class="container py-5">
+	<div 
+		v-if="filteredData.length > 0"
+		class="container py-5" 
+	>
 		<transition-group 
 			name="fade" 
 			tag="div" 
@@ -109,6 +112,18 @@
 					:value="pokemon.query">
 			</div>
 		</transition-group>
+	</div>
+	<div 
+		v-else 
+		class="container py-5"
+	>
+		<p class="no-result-message">Your search <strong>"{{search}}"</strong> didn't match any pokemons</p>
+		<p>Suggestions:</p>
+		<ul>
+			<li>Make sure all words are spelled correctly</li>
+			<li>Make sure searched pokemon are currently available in Pokemon Go</li>
+			<li>Try to search by pokemon number</li>
+		</ul>
 	</div>
 
 
