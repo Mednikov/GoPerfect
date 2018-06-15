@@ -274,6 +274,21 @@
         "number": "154",
         "name": "Meganium",
         "query": "154&cp31,cp98,cp165,cp233,cp300,cp367,cp434,cp502,cp569,cp636,cp700,cp763,cp827,cp891,cp954,cp1018,cp1081,cp1145,cp1209,cp1272,cp1336,cp1400,cp1463,cp1527,cp1590,cp1654,cp1718,cp1781,cp1845,cp1909,cp1941,cp1972,cp2004,cp2036,cp2068"
+      },
+      {
+        "number": "246",
+        "name": "Larvitar",
+        "query": "246&cp12,cp40,cp67,cp94,cp122,cp149,cp176,cp203,cp231,cp258,cp284,cp310,cp336,cp361,cp387,cp413,cp439,cp465,cp491,cp517,cp542,cp568,cp594,cp620,cp646,cp672,cp698,cp723,cp749,cp775,cp788,cp801,cp814,cp827,cp840"
+      },
+      {
+        "number": "247",
+        "name": "Pupitar",
+        "query": "247&cp22,cp71,cp119,cp168,cp216,cp265,cp313,cp362,cp411,cp459,cp505,cp551,cp597,cp643,cp689,cp735,cp781,cp827,cp872,cp918,cp964,cp1010,cp1056,cp1102,cp1148,cp1194,cp1240,cp1286,cp1332,cp1378,cp1401,cp1424,cp1447,cp1470,cp1493"
+      },
+      {
+        "number": "248",
+        "name": "Tyranitar",
+        "query": "248&cp51,cp162,cp273,cp384,cp495,cp605,cp716,cp827,cp938,cp1048,cp1153,cp1258,cp1363,cp1468,cp1573,cp1677,cp1782,cp1887,cp1992,cp2097,cp2202,cp2307,cp2411,cp2516,cp2621,cp2726,cp2831,cp2936,cp3041,cp3146,cp3198,cp3250,cp3303,cp3355,cp3408"
       }
     ]
   },
